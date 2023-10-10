@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joseadiego
+- 👀 I’m interested in Development, Books, Games and Music
+- 🌱 I’m currently learning Javascript,Node,PostgreSQL and Docker
+- 💞️ I’m looking to collaborate on Back-End Projects
